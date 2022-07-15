@@ -33,3 +33,15 @@ body {
     color:white;
     border-radius: 20px;
 }
+
+#siteBox {
+  background: linear-gradient(-0deg, #dce9fc, #1493f5, #1189f7, #4287f5);
+  text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    border: 10px solid gray;
+    width: 1000px;
+    color: orange;
+    border-radius: 20px;
+  
+}
